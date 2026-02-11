@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Migrations\\20260211144440_addDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportEcommerce.API\\Migrations\\20260211144440_addDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|c:\\users\\baloglan\\desktop\\c# task\\sportecommerce\\sportecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|solutionrelative:sportecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|c:\\users\\baloglan\\desktop\\c# task\\sportecommerce\\sportecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|solutionrelative:sportecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|c:\\users\\baloglan\\desktop\\c# task\\sportecommerce\\sportecommerce.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|solutionrelative:sportecommerce.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|c:\\users\\baloglan\\desktop\\c# task\\sportecommerce\\sportecommerce.api\\models\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|solutionrelative:sportecommerce.api\\models\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFC88872-0CB7-409F-86A3-34D1BC8EE0FC}|SportEcommerce.API\\SportEcommerce.API.csproj|c:\\users\\baloglan\\desktop\\c# task\\sportecommerce\\sportecommerce.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20260211144440_addDB.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Migrations\\20260211144440_addDB.cs",
+              "RelativeDocumentMoniker": "SportEcommerce.API\\Migrations\\20260211144440_addDB.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Migrations\\20260211144440_addDB.cs",
+              "RelativeToolTip": "SportEcommerce.API\\Migrations\\20260211144440_addDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:44:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SportEcommerce.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SportEcommerce.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:42:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Models\\DTOs\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "SportEcommerce.API\\Models\\DTOs\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Models\\DTOs\\AuthResponseDTO.cs",
+              "RelativeToolTip": "SportEcommerce.API\\Models\\DTOs\\AuthResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:40:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SportEcommerce.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "SportEcommerce.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwI0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:40:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SportEcommerce.API\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "SportEcommerce.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T18:30:25.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Program.cs",
               "RelativeDocumentMoniker": "SportEcommerce.API\\Program.cs",
               "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\SportEcommerce\\SportEcommerce.API\\Program.cs",
               "RelativeToolTip": "SportEcommerce.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAEwEsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T18:12:24.009Z",
               "EditorCaption": ""
